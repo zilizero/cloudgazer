@@ -1,1 +1,2 @@
-# cloudgazer
+# CloudGazer
+## Your GameHost Solution!
