@@ -3,20 +3,20 @@ Your GameHost Solution! kami menjual berbagai macam hosting seperti VPs,GameHost
 
 
 ## Kenapa sih harus pakai CloudGazer?
-- Ping Hijau
+- Ping Hijau.
   Buat kamu yang berada di Asean, CloudGazer cocok banget! Karena datacenternya ada di Singapura.
 
-- Anti DDoS
+- Anti DDoS.
   Main bareng temen tanpa khawatir panel tidak bisa diakses!.
 
-- Friendly UI
+- Friendly UI.
   UI yang mudah digunakan, dan nyaman untuk mata!.
 
 
-## 👀 Why Sequen?
-### 🔒 Enhanced Privacy
-Sequen guarantees the security of user data, unless there is a third party.
+## Harga
+- VPS Hosting mulai dari Rp25.000!
+- GameHost mulai dari Rp5.000/GB!
+- Domain mulai dari Rp5.000!
 
 
-### 🗣 Freedom of Speech
-In App. You can talk about anything without rules. If the authorities are caught making fun of the President or state officials, we will not get involved in your business.
+- <a href="https://www.cloudgazer.space/">Kunjungi website kami!</a>
